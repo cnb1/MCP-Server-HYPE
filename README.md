@@ -1,2 +1,2 @@
 # MCP-Server
-Generic Python Flask MCP Server
+Generic FastMCP Server
